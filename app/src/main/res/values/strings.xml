@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="hello_world" />
+    <string name="number">(650) 555–5555</string>
+    <string name="mobile">Mobile</string>
+    <string name="address01">2465 Latham St </string>
+    <string name="address02">Mountain View, CA 94043</string>
+    <string
+        name="mission"
+        >At Udacity our mission is to democratize education by providing lifelong learners
+        across the globe with the world-class learning experiences you need to
+        achieve your life and career goals.</string>
+    <string name="beindemand">Be In Demand</string>
+    <string name="udacity_com">www.udacity.com</string>
+    <string name="website">Website</string>
+    <string name="icon_phone">Phone Icon</string>
+    <string name="icon_hangouts">icon_hangouts</string>
+    <string name="udacity_logo">udacity_logo</string>
+    <string name="udacity_banner">udacity_banner</string>
+    <string name="icon_chrome">icon_chrome</string>
+    <string name="icon_location">icon_location</string>
+</resources>
